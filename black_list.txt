@@ -1,2 +1,3 @@
 clien.net
 naver.com
+pstatic.net
